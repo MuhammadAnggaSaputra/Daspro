@@ -1,0 +1,12 @@
+public class TugasElearning4_1
+{
+	double 
+	public void run()
+	{
+		a = 001;
+	
+		System.out.printf(“%4s | %20s | %6.2f \n”, “001”, “Televisi 21 Inch”, 200.051); 
+		System.out.printf(“%4s | %20s | %6.2f \n”, “002”, “Radio Digital”, 10.211); 
+		System.out.printf(“%4s | %20s | %6.2f \n”, “003”, “Smartphone 5.5 inch”, 3.10);
+	}
+}	

@@ -1,0 +1,8 @@
+public class ProgramUtamaT04
+{
+	public static void main(String[] args)
+	{
+		ProgramTugas3_4 program = new ProgramTugas3_4();
+		program.run();
+	}
+}	
