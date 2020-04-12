@@ -1,0 +1,21 @@
+public class latihan5_1
+{
+	int itemPembelian;
+	double totalPembelian, diskon;
+	
+	public void run()
+	{
+		itemPembelian = 10;
+		totalPembelian = 250000;
+		diskon = 0;
+		if (itemPembelian >=10)
+			diskon = 0.05 * totalPembelian;
+		else 
+			diskon = 0;
+		
+		System.out.printf("Item Pembelian: %d \n", itemPembelian);
+		System.out.printf("Total pembelian : %.2f\n", totalPembelian);
+		System.out.printf("Diskon : %.2f \n", diskon);
+	}
+}	
+		
